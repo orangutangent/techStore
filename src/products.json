@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "IPhone 15",
+    "description": "Iphone 15",
+    "price": 1000,
+    "img": "/public/iphone15.png",
+    "colors": ["red", "black", "green"],
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "title": "MacBook Air 13",
+    "description": "M2 chip",
+    "price": 2000,
+    "img": "/public/macbook.png",
+    "colors": ["white", "black"],
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "title": "AirPods",
+    "description": "AirPods",
+    "price": 500,
+    "img": "/public/airpods.png",
+    "colors": ["white"],
+    "rating": 6
+  },
+  {
+    "id": 5,
+    "title": "Apple Watch",
+    "description": "Apple Watch",
+    "price": 500,
+    "img": "/public/applewatch.png",
+    "colors": ["white", "black", "pink", "green"],
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "title": "iPad Air",
+    "description": "M1 chip",
+    "price": 1000,
+    "img": "/public/ipad.png",
+    "colors": ["red", "black", "blue", "white"],
+    "rating": 6
+  },
+  {
+    "id": 6,
+    "title": "Apple TV",
+    "description": "Apple TV",
+    "price": 500,
+    "img": "/public/appletv.png",
+    "colors": ["white", "black"],
+    "rating": 3
+  },
+  {
+    "id": 7,
+    "title": "iMac Pro",
+    "description": "Powerful desktop computer",
+    "price": 5000,
+    "img": "/public/imacpro.png",
+    "colors": ["white", "black"],
+    "rating": 5
+  },
+  {
+    "id": 8,
+    "title": "Apple Pencil",
+    "description": "Stylus for iPad",
+    "price": 100,
+    "img": "/public/applepencil.png",
+    "colors": ["white", "black"],
+    "rating": 3
+  },
+  {
+    "id": 9,
+    "title": "Mac Mini",
+    "description": "Small, compact desktop computer",
+    "price": 700,
+    "img": "/public/macmini.png",
+    "colors": ["white", "black"],
+    "rating": 2
+  },
+  {
+    "id": 10,
+    "title": "Apple Magic Keyboard",
+    "description": "Wireless keyboard for Mac",
+    "price": 150,
+    "img": "/public/magickeyboard.png",
+    "colors": ["white", "black"],
+    "rating": 5
+  },
+  {
+    "id": 11,
+    "title": "Apple Pro Display XDR",
+    "description": "Professional-grade display",
+    "price": 5000,
+    "img": "/public/prodisplay.png",
+    "colors": ["white", "black"],
+    "rating": 1
+  }
+]
